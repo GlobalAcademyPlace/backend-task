@@ -25,7 +25,7 @@ Your microservices system should support the following functionalities:
 - **Microservice 1**: Manages users (e.g., registration, login, forgot password, activation account).
 - **Microservice 2**: Manages tasks or another domain entity relevant to your system (e.g., create, update, delete, list tasks).
 - Implement communication between microservices using asynchronous messaging.
-- Implement RESTful APIs.
+- Implement RESTful APIs with Swagger.
 - Ensure each microservice uses the Repository pattern for data access to abstract the data layer.
 
 ### Code Quality
